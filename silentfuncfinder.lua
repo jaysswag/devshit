@@ -1,4 +1,5 @@
 -- basically finds any function related to camera, localplayer, charac and mouse /]
+-- ++plus it displays on console
 
 
 local Camera = workspace.CurrentCamera
