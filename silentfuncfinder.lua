@@ -1,3 +1,6 @@
+-- basically finds any function related to camera, localplayer, charac and mouse /]
+
+
 local Camera = workspace.CurrentCamera
 local LocalPlayer = game.Players.LocalPlayer
 local Character = LocalPlayer.Character
