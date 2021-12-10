@@ -8,15 +8,15 @@ local Players = game:GetService("Players")
 	local RunService = game:GetService("RunService")
 
 
-	getfenv().lock = "Head" -- Head or Hitbox or Random
+	getfenv().lock = "Head" -- head,random or hitbox
 
-	fov = 250;
+	fov = 250; -- changes the fov
 	local fovCircle = true;
 	local st = tonumber(tick());
 	warn("Loading script...")
 
 	if fovCircle then
-		function createcircle()
+		function createcircle() -- create circle
 			local a=Drawing.new('Circle');a.Transparency=1;a.Thickness=1.5;a.Visible=true;a.Color=Color3.fromRGB(0,255,149);a.Filled=false;a.Radius=fov;
 			return a;
 		end;  
