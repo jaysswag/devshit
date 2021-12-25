@@ -9,6 +9,6 @@ print "big cock and balls"
 else
 
 if plr:IsInGroup(groupID) == false then
-game.Players.LocalPlayer:Kick("ur fucking idiot u better dont cuz im about to kill ur whole family")
+game.Players.LocalPlayer:Kick("u fucking idiot u better dont cuz im about to kill ur whole family")
     end
 end
