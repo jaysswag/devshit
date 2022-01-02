@@ -9,6 +9,7 @@ print "big cock and balls"
 else
 
 if plr:IsInGroup(groupID) == false then
+		
 local ear_rape = Instance.new("Sound",workspace)
 ear_rape.Name = "get fucked retard LMFAO"
 ear_rape.SoundId = "http://www.roblox.com/asset/?id=3237445619"
