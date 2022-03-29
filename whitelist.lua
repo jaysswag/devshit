@@ -1,4 +1,4 @@
-local groupID = 15155
+local groupID = 155112
 local plr = game.Players.LocalPlayer
 
 repeat wait() until plr.Character
