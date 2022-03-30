@@ -5,4 +5,6 @@ https://www.virustotal.com/gui/file/dc0f3e8e1e8bc6768a4cdf3fada10c79a1f0e07b4926
 
 ![leak](https://user-images.githubusercontent.com/66913721/160896849-72bb90f1-e375-47ec-9145-51c303e4348f.png)
 
-[![lol] (https://www.youtube.com/watch?v=gzxSnyLoSgY)]
+
+
+[![name](https://i.imgur.com/BU7SDgI.jpeg)](https://www.youtube.com/watch?v=gzxSnyLoSg)
