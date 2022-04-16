@@ -25,7 +25,7 @@ _____) | (___| |   | | |_| || |_   | |   | | | | / ___ | | |_| |___ | ____| |
 ]])
 
 -------------------------------------------------------
-
+-- Comands list here: https://pastebin.com/raw/6mEjaZRb
 -- Command Handling
 
 local commands = {}
