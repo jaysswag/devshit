@@ -1,4 +1,5 @@
---[[local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/Ven%20Lib.lua")()
+--[[
+local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/Ven%20Lib.lua")()
 
 
 local window = lib:Window("Helios ESP Example")
