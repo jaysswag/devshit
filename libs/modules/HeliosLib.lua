@@ -1,12 +1,12 @@
---[[
+--[[ Documentation/Example
 local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/dawid-scripts/UI-Libs/main/Ven%20Lib.lua")()
 
 
-local window = lib:Window("Helios ESP Example")
+local window = lib:Window("Helios ESP Example") -- Create a Windows <index>:Windows(string)
 
-local esptab = window:Tab("ESP")
+local esptab = window:Tab("ESP") -- Create a Tab <index>:Tab(string)
 
-esptab:Toggle(
+esptab:Toggle( -- Toggle Function
 "Boxes",
 function(t)
 ESP:BoxESPToggle(t)
